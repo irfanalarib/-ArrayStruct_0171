@@ -23,8 +23,8 @@ int main()
 
     cout << endl;
 
-    cout << "\n NIM = " << mhs.nim << endl;
-    cout << "\n Nama = " << mhs.nama << endl;
-    cout << "\n Alamat = " << mhs.alamat << endl;
-    cout << "\n Umur = " << mhs.umur << endl;
+    cout << "\n NIM = " << mhs.NIM;
+    cout << "\n Nama = " << mhs.nama;
+    cout << "\n Alamat = " << mhs.alamat;
+    cout << "\n Umur = " << mhs.umur;
 }
