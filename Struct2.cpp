@@ -17,7 +17,7 @@ int main()
 {
     Mahasiswa mhs;
 
-    cout << "Nomer Mahasiswa= ";
+    cout << "NIM Mahasiswa= ";
     cin >> mhs.NIM;
     cout << "Nama Mahasiswa = ";
     cin >> mhs.nama;

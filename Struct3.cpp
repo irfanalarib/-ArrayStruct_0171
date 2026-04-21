@@ -18,7 +18,7 @@ int main()
 {
     Mahasiswa mhs;
 
-    cout << "Nomer Mahasiswa= ";
+    cout << "NIM Mahasiswa= ";
     getline(cin, mhs.NIM);
     cout << "Nama Mahasiswa = ";
     getline(cin, mhs.nama);

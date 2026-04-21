@@ -20,7 +20,7 @@ int main()
     for (int i =0; i < 3; i++)
     {
         cout << "Data Mahasiswa Ke-" << (i+1) << ":" << endl;
-        cout << "Nomer Mahasiswa= ";
+        cout << "NIM Mahasiswa= ";
         getline(cin, mhs[i].NIM);
         cout << "Nama Mahasiswa = ";
         getline(cin, mhs[i].nama);

@@ -12,7 +12,7 @@ int main()
 {
     Mahasiswa mhs;
 
-    cout << "Nomer Mahasiswa= ";
+    cout << "NIM Mahasiswa= ";
     cin >> mhs.nim;
     cout << "Nama Mahasiswa = ";
     cin >> mhs.nama;
