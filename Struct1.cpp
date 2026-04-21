@@ -20,4 +20,13 @@ int main()
     cin >> mhs.alamat;
     cout << "Umur Mahasiswa = ";
     cin >> mhs.umur;
+
+    cout << endl;
+    cout << "Menampilkan Data" <<endl;
+    cout << endl;
+
+    cout << "\n NIM = " << mhs.nim << endl;
+    cout << "\n Nama = " << mhs.nama << endl;
+    cout << "\n Alamat = " << mhs.alamat << endl;
+    cout << "\n Umur = " << mhs.umur << endl;
 }
